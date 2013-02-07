@@ -5,7 +5,7 @@
  */
 
 
-import java.util.*; // so we can use scanners and arraylists
+import java.util.*;
 
 public class sudoku 
 {
@@ -198,8 +198,8 @@ public class sudoku
 	}
 
 	/*
-		This function is a subroutine called by the isSolved() function
-		to cehck whether the 3x3 region with the upper-left square at 
+		This function is called by the isSolved() function
+		to check whether the 3x3 region with the upper-left square at 
 		row, col is solved. It uses an arraylist as a hash table 
 		to check for duplicates of numbers.
 	*/
@@ -231,8 +231,7 @@ public class sudoku
 	}
 
 	/*
-		This function will simply print the contents of the puzzle
-		array to standard output.
+		This comment is unnecessary
 	*/
 	public static void printPuzzle(int[][] puzzle)
 	{
