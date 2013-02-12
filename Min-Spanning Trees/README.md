@@ -1,0 +1,1 @@
+A Java program implementing Kruskal's algorithm to find a minimum-spanning tree of a weighted graph.
