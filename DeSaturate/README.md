@@ -1,0 +1,1 @@
+An experimental tool using the Python Image Library that will convert an image to grayscale, excluding a specific hue range. The result is a black-and-white image with one hue range displayed in color.
