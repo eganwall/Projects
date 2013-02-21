@@ -1,1 +1,0 @@
-A Python script to generate simple CAPTCHA puzzles. Work in progress.
